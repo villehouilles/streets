@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "addresses"
+version = "0.1.0"
+description = ""
+authors = ["Florent Roques <florentroques@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.0.3"
+polars = "^0.18.6"
+pathlib = "^1.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
