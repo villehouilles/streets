@@ -28,5 +28,6 @@ street_names_replacements_after_sort = {
     "Bruyeres": "Bruyères",
     "Chenes": "Chênes",
     "Reveil Matin": "Réveil Matin",
-    "General": "Général"
+    "General": "Général",
+    "Humanite": "Humanité"
 }
